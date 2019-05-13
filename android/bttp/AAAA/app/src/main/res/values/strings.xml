@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AAAA</string>
+    <string name="btnPrevious">&#60;</string>
+    <string name="btnNext">&#62;</string>
+    <string-array name="spinner_default">
+        <item name="value1">Đúng</item>
+        <item name="value2">Sai</item>
+        <item name="value3">Không biết</item>
+        <item name="value4">Hên xui</item>
+    </string-array>
+    <string name="cau1">Con trong những con sau biết đi??</string>
+    <string name="cau2">Chọn những con có 2 chân trong những con sau: </string>
+    <string name="cau3">Chọn những phương án thích hợp cho những câu hỏi sau:</string>
+    <string name="cauhoi31">Siêu nhân biết bay phải hông?</string>
+    <string name="cauhoi32">Thiệt không?</string>
+    <string name="cauhoi33">Thế nó có biết bơi không?</string>
+    <string name="cau4">Chọn đúng sai trong các câu sau:</string>
+    <string name="cauhoi41">Nước ở thể lỏng phải không?</string>
+    <string name="cauhoi42">Lửa ở thể rắn đúng không?</string>
+    <string name="cauhoi43">Nhung nham ở thể mác ma?</string>
+
+</resources>
